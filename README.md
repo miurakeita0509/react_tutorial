@@ -1,3 +1,11 @@
+
+# 下記URLのチュートリアル実行
+https://ja.legacy.reactjs.org/tutorial/tutorial.html#passing-data-through-props
+
+
+## 下記はそのまま流用
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
